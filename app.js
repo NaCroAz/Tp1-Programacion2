@@ -56,4 +56,6 @@ app.listen(3001, () => {
     console.log("El servidor esta en el puerto 3001")
 })
 
+
+// Se conecta a la base de datos
 dbconnect();
